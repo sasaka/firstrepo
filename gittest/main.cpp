@@ -14,6 +14,8 @@ int main(int argc, const char * argv[])
     // insert code here...
     std::cout << "こんにちは";
     std::cout << "こんばんは";
+    std::cout << "おはようございます";
+    
     return 0;
 }
 
